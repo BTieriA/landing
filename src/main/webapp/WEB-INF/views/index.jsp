@@ -89,7 +89,7 @@
                 <p>컴퓨터활용능력 1급</p>
                 <p>정보처리기능사</p>
                 <p>정보처리기사</p>
-                <a href="#" class="btn">Download Resume</a>
+                <a href="resume/resume.hwp" class="btn" download>Download Resume</a>
             </div>
         </div>
     </section>
@@ -100,7 +100,7 @@
             <h1>My Portfolio</h1>
         </div>
         <div class="portfolioes-center container">
-            <a href="#">
+            <a href="https://rental.tieria.co.kr">
                 <div class="portfolio" data-aos="fade-up" data-aos-duration="2000">
                     <span><i class="fas fa-car"></i></span>
                     <h2>Rent Car</h2>
@@ -112,9 +112,16 @@
                     <p>My 렌터카 메뉴에서 현재 나의 렌터카 현황을 볼 수 있습니다.</p>
                     <p>예시로 e-mail로 <span class="rentalEmail">mainadmin@host.com</span></p>
                     <p>비밀번호 <span class="rentalPw">1234</span>로 로그인하시면 구현하실 수 있습니다. </p>
+                    <p>서브도메인으로 연결되어 있고 비용이 많이 드는 관계로 </p>
+                    <p>랜딩페이지만 SSL 인증을 하였습니다. </p>
+                    <p>'연결이 비공개로 설정되어 있지 않습니다' 라고 메시지가 나오면</p>
+                    <p><span class="rentalEmail">고급</span>으로 들어오셔서 <span class="rentalEmail">rental.tieria.co.kr</span>로
+                        들어가시면 됩니다.</p>
+                    <p>SSL 인증만 안되어 있을 뿐이지 안전하니 마음놓고 사이트를 구경해주세요</p>
+                    <p><span class="rentalEmail">Chrome</span>으로 최적화 되어있습니다.</p>
                 </div>
             </a>
-            <a href="#">
+            <a href="https://shopping.tieria.co.kr">
                 <div class="portfolio" data-aos="fade-up" data-aos-duration="2000">
                     <span><i class="fas fa-bed"></i></span>
                     <h2>Furniture Shopping Mall</h2>
@@ -128,6 +135,13 @@
                     됩니다</p>
                     <p>고객 모드는 id로 <span class="rentalEmail">test</span>비밀번호<span class="rentalPw">1111</span>로 로그인하시면
                         됩니다</p>
+                    <p>서브도메인으로 연결되어 있고 비용이 많이 드는 관계로 </p>
+                    <p>랜딩페이지만 SSL 인증을 하였습니다. </p>
+                    <p>'연결이 비공개로 설정되어 있지 않습니다' 라고 메시지가 나오면</p>
+                    <p><span class="rentalEmail">고급</span>으로 들어오셔서 <span class="rentalEmail">shopping.tieria.co.kr</span>로
+                        들어가시면 됩니다.</p>
+                    <p>SSL 인증만 안되어 있을 뿐이지 안전하니 마음놓고 사이트를 구경해주세요</p>
+                    <p><span class="rentalEmail">Chrome</span>으로 최적화 되어있습니다.</p>
                 </div>
             </a>
         </div>
@@ -169,10 +183,10 @@
                     </div>
                 </div>
                 <div class="skills-box">
-                    <h4>LINUX</h4>
+                    <h4>LINUX(CentOS, Ubuntu)</h4>
                     <div class="skills-ilt">
                         <div class="skills-bar linux"></div>
-                        <span>80%</span>
+                        <span>95%</span>
                     </div>
                 </div>
                 <div class="skills-box">

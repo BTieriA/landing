@@ -69,7 +69,7 @@ new TypeIt('#type1', {
     loop: true,
     waitUntilVisible: true,
 })
-    .type("Develper", {delay: 400})
+    .type("Developer", {delay: 400})
     .pause(500)
     .delete(9)
     .type("Programmer", {delay: 400})
@@ -82,7 +82,7 @@ new TypeIt('#type2', {
     loop: true,
     waitUntilVisible: true,
 })
-    .type("Develper", {delay: 400})
+    .type("Developer", {delay: 400})
     .pause(500)
     .delete(9)
     .type("Programmer", {delay: 400})
